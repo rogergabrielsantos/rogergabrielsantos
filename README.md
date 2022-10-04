@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Atualmente atuo com programação FrontEnd
+- 🔭 Atualmente tarbalhando com programação FrontEnd
 - 🌱Um apaxinado por JavaScript.
 - 👯 Procurando colorações para projetos Front
 - 📫 Encontre-me em minhas redes sociais
