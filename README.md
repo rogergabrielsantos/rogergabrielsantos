@@ -4,7 +4,7 @@
 
 
 - 🔭 Atualmente tarbalhando com programação FrontEnd
-- 🌱Um apaxinado por JavaScript.
+- 🌱Um apaixonado por JavaScript.
 - 👯 Procurando colorações para projetos Front
 - 📫 Encontre-me em minhas redes sociais
 - 👀 Sejam Bem-vindos alunos e colaboradores
