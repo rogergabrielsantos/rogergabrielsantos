@@ -1,11 +1,12 @@
 ### Ola Visitantes 👋
-### Eu sou Roger Santos professor de programação
+### Sou Roger Santos professor de programação
 
 
 
-- 🔭 Atualmente tarbalhando com programação FrontEnd
+- 🔭 Atualmente trabalhando com programação FrontEnd HTML/CSS e Bootstrap
+- 🔭 Atualmente trabalhando com programação backEnd PHP 
 - 🌱Um apaixonado por JavaScript.
-- 👯 Procurando colorações para projetos Front
+- 👯 Procurando colaborações para projetos Front e back
 - 📫 Encontre-me em minhas redes sociais
 - 👀 Sejam Bem-vindos alunos e colaboradores
 
