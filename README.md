@@ -3,9 +3,14 @@
 
 
 
-- 🔭 Atualmente trabalhando com programação FrontEnd HTML/CSS e Bootstrap
-- 🔭 Atualmente trabalhando com programação backEnd PHP 
-- 🌱Um apaixonado por JavaScript.
+- 👨‍🏫 Professor de TI no Senai
+- 📕 Projeto de Sistemas e Metodologias Ágeis
+- 🎲 Banco de Dados e SQL é comigo mesmo
+- 📊 Com o Power BI vou longe
+- 📉 Python para analise de dados
+- 💻 Programação FrontEnd HTML/CSS e Bootstrap
+- ⌨ Programação backEnd PHP 
+- 📃Um apaixonado por JavaScript.
 - 👯 Procurando colaborações para projetos Front e back
 - 📫 Encontre-me em minhas redes sociais
 - 👀 Sejam Bem-vindos alunos e colaboradores
